@@ -1,16 +1,19 @@
-## Hi there 👋
+## Howdy 👋
 
-<!--
-**adamgdegr/adamgdegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adam Garza and I am a Software Developer person where I'm currently learning the Cybersecurity field and developing side projects as a hobby currently.
 
-Here are some ideas to get you started:
+## Certifications 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also study and gain certifications and I have some neat certifications I have gotten over time.
+
+- CompTIA Tech+ Certification
+  - Achieved on **March 20, 2026,** CompTIA Tech+ certification validates the core digital literacy, computing infrastructure, and database fundamentals required to manage modern IT environments.
+
+### Work in Progress
+
+These certifications are what I am currently working on to complete and add to my collection of certifications above.
+
+- CompTIA Network+ Certification
+- CompTIA Security+ Certification
+- Cisco CCNA 1, CCNA 2, and CCNA3
+- Google Cybersecurity Certification
