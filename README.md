@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-My name is Adam Garza and I am a Software Developer where I'm currently learning the Cybersecurity field and developing side projects as a hobby currently.
+My name is Adam Garza, and I am a Software Developer. I'm currently learning the cybersecurity field and developing side projects as a hobby. I also do gaming as my favorite pass-time hobby, so you might see my username in some games.
 
 ## Certifications 🎓
 
