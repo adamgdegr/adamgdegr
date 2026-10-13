@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-My name is Adam Garza and I am a Software Developer person where I'm currently learning the Cybersecurity field and developing side projects as a hobby currently.
+My name is Adam Garza and I am a Software Developer where I'm currently learning the Cybersecurity field and developing side projects as a hobby currently.
 
 ## Certifications 🎓
 
@@ -16,4 +16,4 @@ These certifications are what I am currently working on to complete and add to m
 - CompTIA Network+ Certification
 - CompTIA Security+ Certification
 - Cisco CCNA 1, CCNA 2, and CCNA3
-- Google Cybersecurity Certification
+
