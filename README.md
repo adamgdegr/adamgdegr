@@ -1,6 +1,16 @@
-## Howdy 👋
+<div align="center">
+  <a href="https://x.com/adamgdegr">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/light/twitter-x.svg" height="32" alt="Twitter" />
+  </a>
+</div>
 
-My name is Adam Garza, and I am a Software Developer. I'm currently learning the cybersecurity field and developing side projects as a hobby. I also do gaming as my favorite pass-time hobby, so you might see my username in some games.
+____
+<div align="center">
+  <h2>Adam Garza</h2>
+</div>
+
+
+Howdy 👋. I am a Software Developer and currently learning the cybersecurity field and developing side projects as a hobby. I also do gaming as my favorite pass-time hobby, so you might see my username in some games.
 
 ## Certifications 🎓
 
@@ -16,4 +26,3 @@ These certifications are what I am currently working on to complete and add to m
 - CompTIA Network+ Certification
 - CompTIA Security+ Certification
 - Cisco CCNA 1, CCNA 2, and CCNA3
-
